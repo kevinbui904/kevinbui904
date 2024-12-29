@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thien K. M. Bui
 - 👀 I’m interested in full stack web development (honestly I just like to program but web dev makes my content more accessible)
-- 🌱 I just graduated from Carleton College with a double major in Computer Science and Mathematics. I'll be starting at JPMC this summer as a SDE.
+- 🌱 I graduated Carleton College with a double degree in Computer Science and Mathematics. I'm currently an SDE at JPMC!
 - 💞️ I'm interested in building random applications, just reach out!
 - 📫 I can be reached at kevinbui904@gmail.com
 
